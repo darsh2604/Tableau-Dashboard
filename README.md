@@ -30,7 +30,7 @@ The dashboard presents key insights through charts, graphs, filters, and KPIs, e
 
 ```
 .
-├── Book.twb
+├── Book.twbx
 ├── dataset/
 ├── screenshots/
 └── README.md
@@ -40,7 +40,7 @@ The dashboard presents key insights through charts, graphs, filters, and KPIs, e
 
 ## Files
 
-### Book.twb
+### Book.twbxxx
 Tableau workbook containing all dashboards, worksheets, and visualizations.
 
 ### Dataset
@@ -67,7 +67,7 @@ Preview images of the dashboard.
 git clone https://github.com/yourusername/Tableau-Dashboard.git
 ```
 
-2. Open **Book.twb** using Tableau Desktop.
+2. Open **Book.twbx** using Tableau Desktop.
 
 3. If prompted, reconnect the data source located inside the **dataset** folder.
 
