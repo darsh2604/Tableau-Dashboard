@@ -21,7 +21,7 @@ The dashboard presents key insights through charts, graphs, filters, and KPIs, e
 ## Tools Used
 
 - Tableau Desktop
-- Microsoft Excel / CSV Dataset
+- JSON File Dataset
 - GitHub
 
 ---
@@ -31,7 +31,7 @@ The dashboard presents key insights through charts, graphs, filters, and KPIs, e
 ```
 .
 ├── Book.twbx
-├── dataset/
+├── daikibo-telemetry-data.json.zip
 ├── screenshots/
 └── README.md
 ```
@@ -40,10 +40,10 @@ The dashboard presents key insights through charts, graphs, filters, and KPIs, e
 
 ## Files
 
-### Book.twbxxx
+### Book.twbx
 Tableau workbook containing all dashboards, worksheets, and visualizations.
 
-### Dataset
+### daikibo-telemetry-data.json.zip
 Contains the source data used for creating the dashboard.
 
 ### Screenshots
