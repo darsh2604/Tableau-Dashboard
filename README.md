@@ -53,7 +53,6 @@ Preview images of the dashboard.
 
 ## Dashboard Preview
 
-(Add your screenshot here)
 
 ![Dashboard](screenshots/dashboard-overview.png)
 
